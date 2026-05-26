@@ -1,2 +1,2 @@
 local zay = loadstring(game:HttpGet("https://raw.githubusercontent.com/zayistras/z-hub/refs/heads/main/Main.lua"))()
-zay:Run("VBpCUUVfAkwFUAZNSFMRDQBMAFVcTR8FEVcFQ1ZUUk8=")()
+zay:Run("VhwfUxMOVkIEAQVPSlEWXwceVwEASB5QRAoGGQRSBkA=")()
